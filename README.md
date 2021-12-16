@@ -13,8 +13,10 @@
         <h1>Zadanie 6</h1>
         <p>"..."</p>
         <br><br><br>
-        <iframe name="Page" src="https://htmlcolorcodes.com/" width="100%" height="480" style="border:3px solid black;"></iframe>
-        <a href="https://www.image-map.net/" target="Page">Link Do Strony 1</a>
+        <iframe name="Pickolage_Cage" src="https://htmlcolorcodes.com/" width="100%" height="480" ></iframe>
+        <a href="https://www.starbucks.pl/" target="Pickolage_Cage">Gwiezdne dolary</a>
+        <a href="https://www.apple.com/pl/iphone/" target="Pickolage_Cage">Gwiezdne dolary</a>
+        
 
 
         

@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html>
-     <head>
-     </head>
-     <body>
-          <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTmxImMSHqs4_GzezxKDM10sVH_iDpk4tWKTz_yEAj25NBsejzsEb64nYQNP1gZpF2uhSs7T5ooYPCA/pubhtml?gid=0&amp single=true&amp widget=true&amp title="hello" headers=false"></iframe>
-          <p><a href="https://www.w3schools.com" target="hello">Taste it?</a></p>
-          <p>hej, jaktam?</p>
-     </body>
-</html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Strona nr 1519</title>
+        <meta name="description" content="Strona na Tworzenie stron i aplikacji internetowych">
+        <meta name="keywords" content="HTML, CSS">
+    </head>
+
+    <body>
+       
+
+        <h1>Zadanie 6</h1>
+        <p>"..."</p>
+        <br><br><br>
+        <iframe name="Page" src="https://htmlcolorcodes.com/" width="100%" height="480" style="border:3px solid black;"></iframe>
+        <a href="https://www.image-map.net/" target="Page">Link Do Strony 1</a>
+
+
+    </body>

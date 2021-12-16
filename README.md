@@ -3,6 +3,7 @@
      <head>
      </head>
      <body>
-     <iframe src="https://www.youtube.com/watch?v=J---aiyznGQ" height="200" width="300"></iframe>
+          <iframe src="ERROR.htm" name="iframe_a" height="300px" width="100%></iframe>
+          <p><a href="https://www.w3schools.com" target="iframe_a">Taste it?</a></p>
      </body>
 </html>

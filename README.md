@@ -15,7 +15,7 @@
         <br><br><br>
         <iframe name="Pickolage_Cage" src="https://htmlcolorcodes.com/" width="100%" height="480" ></iframe>
         <a href="https://www.starbucks.pl/" target="Pickolage_Cage">Gwiezdne dolary</a>
-        <a href="https://www.apple.com/pl/iphone/" target="Pickolage_Cage">Gwiezdne dolary</a>
+        <a href="https://www.apple.com/pl/iphone/" target="Pickolage_Cage">Ja telefon</a>
         
 
 

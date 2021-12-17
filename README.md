@@ -13,4 +13,5 @@
         <p><a href="https://www.wikipedia.org/" target="Pickolage_Cage">Ciocia wikipedia</a></p>
         <p><a href="https://pl.wikipedia.org/wiki/Kawa" target="Pickolage_Cage">Alikawa</a></p>
         <br>
+        <p>Smacznego</p>
     </body>

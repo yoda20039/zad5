@@ -10,6 +10,6 @@
         <h1>Zadanie 6</h1>
         <br><br><br>
         <iframe name="Pickolage_Cage" src="https://htmlcolorcodes.com/" width="100%" height="480" ></iframe>
-        <a href="https://www.wikipedia.org/" target="Pickolage_Cage">Ciocia wikipedia</a>
-        <a href="https://pl.wikipedia.org/wiki/Kawa" target="Pickolage_Cage">Kawusia</a>
+        <p><a href="https://www.wikipedia.org/" target="Pickolage_Cage">Ciocia wikipedia</a></p>
+        <p><a href="https://pl.wikipedia.org/wiki/Kawa" target="Pickolage_Cage">Kawusia</a></p>
     </body>
